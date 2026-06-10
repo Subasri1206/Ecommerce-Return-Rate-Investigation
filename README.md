@@ -56,7 +56,7 @@ The following visualizations were created:
 
 ### 🎯 Innovation
 - A Machine Learning based Return Prediction System can predict whether a product is likely to be returned before shipping.
-- A real-time dashboard can be developed to monitor return risk and customer behavior.
+- A real-time dashboard can be developed to monitor return risk and customer behavior continuously.
   
 ## 🛠️ Tools Used
 - Python
